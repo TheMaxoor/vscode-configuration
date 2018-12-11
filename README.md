@@ -1,2 +1,4 @@
-# vscode-configuration
-My configuration and plugin list for Visual Studio Code
+# VSCode Configuration
+
+* [Plugin list](plugins.md)
+* [Config (JSON)](config.json)
