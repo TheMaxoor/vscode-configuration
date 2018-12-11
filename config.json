@@ -1,0 +1,54 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "window.zoomLevel": 1,
+    "editor.fontFamily": "'Dank Mono', Monaco, 'Courier New', monospace",
+    "editor.fontSize": 13,
+    "editor.fontWeight": "700",
+    "editor.fontLigatures": true,
+    "[twig]": {},
+    "emmet.triggerExpansionOnTab": true,
+    "editor.tabSize": 2,
+    "explorer.confirmDragAndDrop": false,
+    "vsicons.projectDetection.autoReload": true,
+    "gitlens.keymap": "alternate",
+    "gitlens.advanced.messages": {
+        "suppressCommitHasNoPreviousCommitWarning": false,
+        "suppressCommitNotFoundWarning": false,
+        "suppressFileNotUnderSourceControlWarning": false,
+        "suppressGitVersionWarning": false,
+        "suppressLineUncommittedWarning": false,
+        "suppressNoRepositoryWarning": false,
+        "suppressResultsExplorerNotice": false,
+        "suppressShowKeyBindingsNotice": true
+    },
+    "php.suggest.basic": false,
+    "gitlens.historyExplorer.enabled": true,
+    "workbench.colorTheme": "Night Owl",
+    "explorer.confirmDelete": false,
+    "breadcrumbs.enabled": true,
+    "workbench.editor.showTabs": false,
+    "editor.cursorStyle": "line",
+    "editor.cursorBlinking": "smooth",
+    "vsicons.dontShowNewVersionMessage": true,
+    "vetur.format.defaultFormatter.js": "vscode-typescript",
+    "vetur.format.defaultFormatter.html": "js-beautify-html",
+    "javascript.format.insertSpaceBeforeFunctionParenthesis": true,
+    "editor.formatOnSave": false,
+    "eslint.autoFixOnSave": true,
+    "eslint.validate": [{
+            "language": "vue",
+            "autoFix": true
+        },
+        {
+            "language": "html",
+            "autoFix": true
+        },
+        {
+            "language": "javascript",
+            "autoFix": true
+        }
+    ],
+    "vetur.validation.template": false,
+    "gitlens.views.fileHistory.enabled": true,
+    "gitlens.views.lineHistory.enabled": true
+}
